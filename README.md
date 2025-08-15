@@ -1,3 +1,6 @@
+# 📂 Project Structure — `canada777`
+
+```text
 canada777/
 ├── venv/                      # Python virtual environment (excluded from version control)
 ├── app/                       # Core application package
@@ -49,3 +52,4 @@ venv\Scripts\activate
 # On macOS/Linux
 source venv/bin/activate
 #python -m uvicorn app.main:app --reload --host 0.0.0.0 --port 8000 = for backend run
+
